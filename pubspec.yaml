@@ -1,5 +1,4 @@
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.13.3
-  cached_network_image: ^3.1.0
+  audioplayers: ^0.20.1
